@@ -1,0 +1,50 @@
+person
+bicycle
+car
+motorcycle
+airplane
+bus
+train
+truck
+boat
+traffic light
+street sign
+stop sign
+bench
+bird
+cat
+dog
+hat
+backpack
+shoe
+eye glasses
+handbag
+tie
+suitcase
+skis
+sports ball
+kite
+surfboard
+bottle
+wine glass
+cup
+sandwich
+chair
+couch
+mirror
+dining table
+window
+desk
+toilet
+door
+tv
+laptop
+mouse
+remote
+keyboard
+cell phone
+sink
+book
+clock
+vase
+scissors
